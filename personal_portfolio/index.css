@@ -2,9 +2,10 @@
   margin-bottom: 30px;
 }
 .row.nav {
-  color: orange;
-  background-color: grey;
-  padding-bottom: 10px;
+  color: #f7990c;
+  border-bottom: #f7990c 5px solid;
+  padding-bottom: 250px;
+  background-image: url(https://s23.postimg.org/zew634baz/2016_09_01_10_42_40.jpg);
 }
 h2 {
   font-size: 18px;
@@ -17,6 +18,11 @@ h1 {
 }
 p {
   text-align: center;
-  text-shadow: 2px 4px 10px orange;
+  text-shadow: 2px 4px 10px #f7990c;
   font-size: 18px;
+  margin-top: 20px;
+}
+h2 a {
+  color: #f7990c;
+  font-size: 25px;
 }
