@@ -1,3 +1,22 @@
 .port1 {
   margin-bottom: 30px;
 }
+.row.nav {
+  color: orange;
+  background-color: grey;
+  padding-bottom: 10px;
+}
+h2 {
+  font-size: 18px;
+  text-align: center;
+}
+h1 {
+ font-weight: bold;
+ font-size: 55px;
+ font-family: cursive;
+}
+p {
+  text-align: center;
+  text-shadow: 2px 4px 10px orange;
+  font-size: 18px;
+}
