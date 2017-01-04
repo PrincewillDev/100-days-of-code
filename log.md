@@ -35,6 +35,8 @@ Today's Progress: Free Code Camp's Personal Portfolio and Basic JS
 
 Thoughts: Completed the personal portfolio project by creating links to sections on the same page. Started Basic JS
 
+Link to work: http://codepen.io/kmcrayton7/pen/bBXdxO
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 6: January 1, 2017
