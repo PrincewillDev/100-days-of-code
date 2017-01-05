@@ -1,3 +1,5 @@
+# 100 Days Of Code - Log
+
 Day 1: December 28, 2016
 
 Today's Progress: Free Code Camp's Personal Portfolio
@@ -67,7 +69,7 @@ Day 9: January 5, 2017
 
 Today's Progress: Free Code Camp's Basic JS - Objects
 
-Thoughts: One thing that I find most challenging when following tutorals is understanding the instructions. Wording is everything.  
+Thoughts: One thing that I find most challenging when following tutorials is understanding the instructions. Wording is everything.  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
