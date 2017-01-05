@@ -39,7 +39,7 @@ Link to work: http://codepen.io/kmcrayton7/pen/bBXdxO
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 6: January 1, 2017
+Day 6: January 2, 2017
 
 Today's Progress: Basic JS
 
@@ -47,7 +47,7 @@ Thoughts: Had some challenges w/understanding scope but I figured it out.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 7: January 1, 2017
+Day 7: January 3, 2017
 
 Today's Progress: Free Code Camp's Basic JS
 
@@ -55,11 +55,19 @@ Thoughts: I was struggling w getting my questions answered. Downside of virtual 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 8: January 1, 2017
+Day 8: January 4, 2017
 
 Today's Progress: Free Code Camp's Basic JS
 
 Thoughts: Had a much better experience and completed the Golf Code Challenge
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 9: January 5, 2017
+
+Today's Progress: Free Code Camp's Basic JS - Objects
+
+Thoughts: One thing that I find most challenging when following tutorals is understanding the instructions. Wording is everything.  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
