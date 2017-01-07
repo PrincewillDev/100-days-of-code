@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+
+Day 11: January 7, 2017
+
+Today's Progress: Free Code Camp's Basic JS Loops
+
+Thoughts: I have to find ways to supplement the courses exercises because I need a lot more practice for I am able to extend what I've learned to more complex problems.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Day 10: January 6, 2017
