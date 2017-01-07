@@ -1,33 +1,43 @@
 # 100 Days Of Code - Log
-
-Day 1: December 28, 2016
-
-Today's Progress: Free Code Camp's Personal Portfolio
-
-Thoughts: It's been a long time but here we go.
-
 ------------------------------------------------------------------------------------------------------------------------------------------
-Day 2: December 29, 2016
 
-Today's Progress: Free Code Camp's Personal Portfolio
+Day 10: January 6, 2017
 
-Thoughts: I aligned the social buttons and portfolio images
+Today's Progress: Free Code Camp's Basic JS - Objects & For Loops
+
+Thoughts: Getting better at being cool with "Hell, I just don't know." i.e. the nested for loop  
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 3: December 30, 2016
+Day 9: January 5, 2017
 
-Today's Progress: Free Code Camp's Personal Portfolio
+Today's Progress: Free Code Camp's Basic JS - Objects
 
-Thoughts: Added About content and played around with CSS for nav
+Thoughts: One thing that I find most challenging when following tutorials is understanding the instructions. Wording is everything. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 4: December 31, 2016
+Day 8: January 4, 2017
 
-Today's Progress: Free Code Camp's Personal Portfolio
+Today's Progress: Free Code Camp's Basic JS
 
-Thoughts: Added a background image to the nav and worked on creating internal links from nav to page content
+Thoughts: Had a much better experience and completed the Golf Code Challenge
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 7: January 3, 2017
+
+Today's Progress: Free Code Camp's Basic JS
+
+Thoughts: I was struggling w getting my questions answered. Downside of virtual help.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 6: January 2, 2017
+
+Today's Progress: Basic JS
+
+Thoughts: Had some challenges w/understanding scope but I figured it out.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,35 +51,32 @@ Link to work: http://codepen.io/kmcrayton7/pen/bBXdxO
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 6: January 2, 2017
+Day 4: December 31, 2016
 
-Today's Progress: Basic JS
+Today's Progress: Free Code Camp's Personal Portfolio
 
-Thoughts: Had some challenges w/understanding scope but I figured it out.
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Day 7: January 3, 2017
-
-Today's Progress: Free Code Camp's Basic JS
-
-Thoughts: I was struggling w getting my questions answered. Downside of virtual help.
+Thoughts: Added a background image to the nav and worked on creating internal links from nav to page content
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 8: January 4, 2017
+Day 3: December 30, 2016
 
-Today's Progress: Free Code Camp's Basic JS
+Today's Progress: Free Code Camp's Personal Portfolio
 
-Thoughts: Had a much better experience and completed the Golf Code Challenge
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Day 9: January 5, 2017
-
-Today's Progress: Free Code Camp's Basic JS - Objects
-
-Thoughts: One thing that I find most challenging when following tutorials is understanding the instructions. Wording is everything.  
+Thoughts: Added About content and played around with CSS for nav
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+Day 2: December 29, 2016
+
+Today's Progress: Free Code Camp's Personal Portfolio
+
+Thoughts: I aligned the social buttons and portfolio images
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 1: December 28, 2016
+
+Today's Progress: Free Code Camp's Personal Portfolio
+
+Thoughts: It's been a long time but here we go.
