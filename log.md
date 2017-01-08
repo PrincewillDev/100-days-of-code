@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 12: January 8, 2017
+
+Today's Progress: The First 3 exercises in Learn Python The Hard Way
+
+Thoughts: As a way on honoring my learning style, I've decided to revisit Learn Python The Hard Way. I completed it once but it's been months since I last coded so I need to go back to the basics and have lots of practice. I also need the freedom to solve the problem in ways that make sense to me.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 11: January 7, 2017
 
 Today's Progress: Free Code Camp's Basic JS Loops
