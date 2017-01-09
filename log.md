@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 13: January 9, 2017
+
+Today's Progress: Exercises 4 -10 in Learn Python The Hard Way
+
+Thoughts: No real thoughts other than to get it in.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 12: January 8, 2017
 
 Today's Progress: The First 3 exercises in Learn Python The Hard Way
