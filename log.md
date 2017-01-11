@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 14: January 10, 2017
+
+Today's Progress: Learn Python The Hard Way Exercises 11 -14 and started Harvard's CS50x
+
+Thoughts: Ok, this is my third attempt at take and hopefully completing Harvard's CS50x. I really enjoy this course and want to finish it.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 13: January 9, 2017
 
 Today's Progress: Exercises 4 -10 in Learn Python The Hard Way
