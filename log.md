@@ -4,7 +4,7 @@ Day 16: January 13, 2017
 
 Today's Progress: It's BASIC
 
-Thoughts: So life has done what it so often does, shifted my priorties. So for the reminder of these 100 days I will be developing a  prerequisite coding curriculum for beginners. Stay tuned :-)
+Thoughts: So life has done what it so often does, shifted my priorities. So for the reminder of these 100 days I will be developing a  prerequisite coding curriculum for beginners. Stay tuned :-)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
