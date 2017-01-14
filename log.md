@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 16: January 13, 2017
+
+Today's Progress: It's BASIC
+
+Thoughts: So life has done what it so often does, shifted my priorties. So for the reminder of these 100 days I will be developing a  prerequisite coding curriculum for beginners. Stay tuned :-)
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 14: January 10, 2017
 
 Today's Progress: Learn Python The Hard Way Exercises 11 -14 and started Harvard's CS50x
