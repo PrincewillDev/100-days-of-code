@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+Day 17: January 14, 2017
+
+Today's Progress: curriculum research and Learn Python The Hard Way (LPTHW) exercises 14 & 15 
+
+Thoughts: It's nice to be back on track. Setting a timer helps.
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 16: January 13, 2017
 
 Today's Progress: It's BASIC
