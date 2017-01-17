@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 18: January 16, 2017
+
+Today's Progress: curriculum research and Learn Python The Hard Way (LPTHW) exercises 16 & 17  
+
+Thoughts: Man, I'm starting to think that I bite off more then I can chew with the various daily challenges I've agreed to. Well at least this one is in the bag for another day.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 17: January 14, 2017
 
 Today's Progress: curriculum research and Learn Python The Hard Way (LPTHW) exercises 14 & 15 
