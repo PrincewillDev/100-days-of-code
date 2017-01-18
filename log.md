@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 19: January 17, 2017
+
+Today's Progress: curriculum research and Learn Python The Hard Way (LPTHW) exercises 18 - 21 (functions
+
+Thoughts: I have to add a reminder so that I won't remember this challenge at the end of my day.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 Day 18: January 16, 2017
 
 Today's Progress: curriculum research and Learn Python The Hard Way (LPTHW) exercises 16 & 17  
